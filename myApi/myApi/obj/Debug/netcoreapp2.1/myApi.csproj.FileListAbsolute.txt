@@ -1,0 +1,14 @@
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\bin\Debug\netcoreapp2.1\myApi.deps.json
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\bin\Debug\netcoreapp2.1\myApi.runtimeconfig.json
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\bin\Debug\netcoreapp2.1\myApi.runtimeconfig.dev.json
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\bin\Debug\netcoreapp2.1\myApi.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\bin\Debug\netcoreapp2.1\myApi.pdb
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.csprojAssemblyReference.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.csproj.CoreCompileInputs.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.RazorAssemblyInfo.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.RazorAssemblyInfo.cs
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.AssemblyInfoInputs.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.AssemblyInfo.cs
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.RazorTargetAssemblyInfo.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi\obj\Debug\netcoreapp2.1\myApi.pdb

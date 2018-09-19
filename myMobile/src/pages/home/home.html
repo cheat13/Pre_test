@@ -1,0 +1,36 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Calculate
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-item>
+    <ion-input type="number" placeholder="Input P1" [(ngModel)]="p1"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-input type="number" placeholder="Input P1" [(ngModel)]="p2"></ion-input>
+  </ion-item>
+
+  <ion-row padding>
+    <ion-col col-3>
+      <button ion-button block (click)="add()">Add</button>
+    </ion-col>
+    <ion-col col-3>
+      <button ion-button block (click)="minus()">Minus</button>
+    </ion-col>
+    <ion-col col-3>
+      <button ion-button block (click)="multiply()">Multi</button>
+    </ion-col>
+    <ion-col col-3>
+      <button ion-button block (click)="divide()">Divide</button>
+    </ion-col>
+  </ion-row>
+
+  <div><h1>Result : {{result}}</h1></div>
+
+</ion-content>

@@ -1,0 +1,17 @@
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\obj\Debug\netcoreapp2.1\myApi.test.csprojAssemblyReference.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\obj\Debug\netcoreapp2.1\myApi.test.csproj.CoreCompileInputs.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\obj\Debug\netcoreapp2.1\myApi.test.AssemblyInfoInputs.cache
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\obj\Debug\netcoreapp2.1\myApi.test.AssemblyInfo.cs
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\myApi.test.deps.json
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\myApi.test.runtimeconfig.json
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\myApi.test.runtimeconfig.dev.json
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\myApi.test.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\myApi.test.pdb
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\myApi.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\bin\Debug\netcoreapp2.1\myApi.pdb
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\obj\Debug\netcoreapp2.1\myApi.test.csproj.CopyComplete
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\obj\Debug\netcoreapp2.1\myApi.test.dll
+C:\Users\trago\Desktop\ซ้อมสอบ\Final\myApi\myApi.test\obj\Debug\netcoreapp2.1\myApi.test.pdb
